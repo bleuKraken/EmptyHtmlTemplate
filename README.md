@@ -1,1 +1,3 @@
 # EmtpyHtmlTemplate
+
+open htmlTemplate.html
